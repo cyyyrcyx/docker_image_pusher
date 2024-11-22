@@ -1,3 +1,5 @@
+
+fholzer/nginx-check
 sonatype/nexus3
 httpd:alpine
 #支持私库
