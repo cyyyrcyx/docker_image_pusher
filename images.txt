@@ -1,4 +1,4 @@
-
+nginx:alpine
 nginx:1.21.3
 sonatype/nexus3
 httpd:alpine
